@@ -1,7 +1,7 @@
 ## Hi there, 👋 I'm Ryan aka "d4rkwinz" 🦸🏻‍♂️
 ### Sotfware Engineer | Solopreneur 🚀
 
-<img align="right" width="280px" height="240px" src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" alt="gif" />
+<img align="right" width="280px" height="260px" src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" alt="gif" />
 
 <br />
 
@@ -25,11 +25,11 @@
 ## My Github Stats 📈:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=d4rkwinz&count_private=true&show_icons=true&custom_title=d4rkwinz's stats&locale=en" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=d4rkwinz" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4rkwinz&langs_count=10&layout=compact" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4rkwinz&langs_count=10&layout=compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=d4rkwinz" />
  </p>
 
 <p align='center'>
