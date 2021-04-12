@@ -29,7 +29,7 @@
 </p>
 
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4rkwinz&langs_count=10&custom_title=d4rkwinz's stats&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4rkwinz&langs_count=10&hide_title=true&layout=compact" />
 </p>
 
 <p align='center'>
