@@ -1,7 +1,7 @@
 ## Hi there, 👋 I'm Ryan aka "d4rkwinz" 🦸🏻‍♂️
 ### Sotfware Engineer | Solopreneur 🚀
 
-<img align="right" width="300" height="300" src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" alt="gif" width="400px" />
+<img align="right" width="230" height="230" src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" alt="gif" width="400px" />
 
 - 🔭  I’m currently working on [Wingman - Business Card Scanner](https://wingman.xyz)
 - 🌱  I’m currently learning NextJS, Project Management
