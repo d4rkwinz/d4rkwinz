@@ -26,6 +26,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=d4rkwinz&count_private=true&show_icons=true&custom_title=d4rkwinz's stats&locale=en&theme=vue" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=d4rkwinz&theme=vue" />
+</p>
+
+<p align='center'>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4rkwinz&langs_count=8&custom_title=d4rkwinz's stats&layout=compact" />
 </p>
 
