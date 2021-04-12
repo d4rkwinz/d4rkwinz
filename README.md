@@ -7,7 +7,7 @@
 
 - 🔭  I’m currently working on [Wingman - Business Card Scanner](https://wingman.xyz)
 - 🌱  I’m currently learning NextJS, Project Management
-- 💬  Portfolios page: https://d4rkwinz.github.io
+- 💬  Portfolios page: https://d4rkwinz.com
 - 📫  How to reach me: d4rkwinz@gmail.com
 - 😄  Pronouns: He/Him
 - ⚡  Fun fact: "The quieter you become, the more you are able to hear." 
@@ -25,11 +25,11 @@
 ## My Github Stats 📈:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=d4rkwinz&count_private=true&show_icons=true&custom_title=d4rkwinz's stats&locale=en" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4rkwinz&langs_count=10&layout=compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=d4rkwinz" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=d4rkwinz" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4rkwinz&langs_count=10" />
  </p>
 
 <p align='center'>
