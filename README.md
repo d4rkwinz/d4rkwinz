@@ -1,7 +1,7 @@
 ## Hi there, 👋 I'm Ryan aka "d4rkwinz" 🦸🏻‍♂️
 ### Sotfware Engineer | Solopreneur 🚀
 
-<img align="right" width="250" height="250" src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" alt="gif" width="400px" />
+<img align="right" width="280px" height="240px" src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" alt="gif" />
 
 <br />
 
@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4rkwinz&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4rkwinz&langs_count=10&layout=compact" />
  </p>
 
 <p align='center'>
