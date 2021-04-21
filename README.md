@@ -1,21 +1,29 @@
 ## Hi there, 👋 I'm Ryan aka "d4rkwinz" 🦸🏻‍♂️
 ### Sotfware Engineer | Solopreneur 🚀
 
-<img align="right" width="280px" height="260px" src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" alt="gif" />
+<img align="right" width="260px" height="250px" src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" alt="gif" />
 
 <br />
 
-- 🔭  I’m currently working on [Wingman - Business Card Scanner](https://wingman.xyz)
-- 🌱  I’m currently learning NextJS, Project Management
-- 💬  Portfolios page: https://d4rkwinz.com
+- 🏦  I’m currently working on [Wingman - Business Card Scanner](https://wingman.xyz)
+- 👨‍💻 I use daily ```.clj```,``` .py```, ```.js```
+- 📚  I’m currently learning [NextJS](https://nextjs.org/), [Project Management](https://www.coursera.org/professional-certificates/google-project-management)
+- 🔭  Portfolio page: https://d4rkwinz.com
 - 📫  How to reach me: d4rkwinz@gmail.com
 - 😄  Pronouns: He/Him
 - ⚡  Fun fact: "The quieter you become, the more you are able to hear." 
 
-<p align="center">
+<!-- <p align="center">
   <a href="mailto:d4rkwinz@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="d4rkwinz" height="20" width="20" /></a>&nbsp;
   <a href="https://linkedin.com/in/d4rkwinz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="d4rkwinz" height="20" width="20" /></a>&nbsp;
   <a href="https://twitter.com/d4rkwinz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="d4rkwinz" height="20" width="20" /></a>
+</p> -->
+
+<p align="center">
+   <a href="mailto:d4rkwinz@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-red.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+  <a href="https://github.com/d4rkwinz" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  </a> <a href="https://www.linkedin.com/in/d4rkwinz" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/d4rkwinz" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </p>
 
 ## My Certifications 🎖:
