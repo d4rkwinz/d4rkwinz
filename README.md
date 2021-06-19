@@ -11,7 +11,7 @@
 - 🔭  Portfolio page: https://d4rkwinz.com
 - 📫  How to reach me: d4rkwinz@gmail.com
 - 😄  Pronouns: He/Him
-- ⚡  Fun fact: "The quieter you become, the more you are able to hear." 
+- ⚡  Fun fact: "Everything in software architecture is a trade-off." 
 
 <!-- <p align="center">
   <a href="mailto:d4rkwinz@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="d4rkwinz" height="20" width="20" /></a>&nbsp;
