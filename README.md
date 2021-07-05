@@ -1,5 +1,5 @@
 ## Hi there, 👋 I'm Ryan aka "d4rkwinz"
-### Sotfware Engineer | Solopreneur 🧗🏼‍♂️
+### Sotfware Engineer 👨🏻‍💻
 
 <!-- <img align="right" width="260px" height="250px" src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" alt="gif" /> -->
 <img align="right" width="240px" height="240px" src="https://media.giphy.com/media/sGBMzyeEzKpySD74qv/giphy.gif" alt="gif" />
