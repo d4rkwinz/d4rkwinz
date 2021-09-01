@@ -1,19 +1,20 @@
 ## Hi there, 👋 I'm Ryan aka "d4rkwinz"
-### Sotfware Engineer 👨🏻‍💻
+
+### Software Engineer 👨🏻‍💻
 
 <!-- <img align="right" width="260px" height="250px" src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" alt="gif" /> -->
-<img align="right" width="240px" height="240px" src="https://media.giphy.com/media/sGBMzyeEzKpySD74qv/giphy.gif" alt="gif" />
+<!-- <img align="right" width="240px" height="240px" src="https://media.giphy.com/media/sGBMzyeEzKpySD74qv/giphy.gif" alt="gif" />
 
-<br />
+<br /> -->
 
-- 🏦  I’m currently working on ...
-- 🏆  Proud works: [ [Wingman](https://wingman.xyz) ]
-- 👨‍💻  I use frequently [ ```.clj```, ```.py```, ```.js``` ]
-- 📚  I’m currently learning [Project Management](https://www.coursera.org/professional-certificates/google-project-management)
-- 🔭  Portfolio page: https://d4rkwinz.com
-- 📫  How to reach me: d4rkwinz@gmail.com
-- 😄  Pronouns: He/Him
-- ⚡   Fun Quote: "The perfect kind of architecture is the one which never has to be made." 
+- 🏦 I’m currently working on ...
+- 🏆 Proud works: [ [Wingman](https://wingman.xyz) ]
+- 👨‍💻 I use frequently [ ```.clj```, ```.py```, ```.js``` ]
+- 📚 I’m currently learning [Project Management](https://www.coursera.org/professional-certificates/google-project-management)
+- 🔭 Portfolio page: https://d4rkwinz.com
+- 📫 How to reach me: d4rkwinz@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Inspired Quote: "It doesn't matter how good your engineering team is if they are not given something worthwhile to build." - Marty Cagan
 
 <!-- <p align="center">
   <a href="mailto:d4rkwinz@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="d4rkwinz" height="20" width="20" /></a>&nbsp;
@@ -29,10 +30,12 @@
 </p>
 
 ## My Certifications 🎖:
+
 - [Google Cloud Certified Professional Cloud Architect](https://www.credential.net/0bf33c33-ff68-4461-ad48-071bc62275c5)
 - [Google Cloud Certified Associcate Cloud Engineer](https://www.credential.net/1c89c57f-d89c-4e1f-bb15-9de66299d856)
 
 ## My Github Stats 📈:
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=d4rkwinz&count_private=true&show_icons=true&custom_title=d4rkwinz's stats&locale=en&theme=vue" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=d4rkwinz&theme=vue" />
