@@ -1,5 +1,5 @@
-## Hi there, 👋 I'm Ryan aka "d4rkwinz" 🦸🏻‍♂️
-### Sotfware Engineer | Solopreneur 🚀
+## Hi there, 👋 I'm Ryan aka "d4rkwinz"
+### Sotfware Engineer | Solopreneur 🧗🏼‍♂️
 
 <!-- <img align="right" width="260px" height="250px" src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" alt="gif" /> -->
 <img align="right" width="240px" height="240px" src="https://media.giphy.com/media/sGBMzyeEzKpySD74qv/giphy.gif" alt="gif" />
@@ -7,13 +7,13 @@
 <br />
 
 - 🏦  I’m currently working on ...
-- 🏆  Proud works: [[Wingman - Business Card Scanner](https://wingman.xyz)]
-- 👨‍💻  I use frequently [```.clj```,``` .py```, ```.js```]
+- 🏆  Proud works: [ [Wingman](https://wingman.xyz) ]
+- 👨‍💻  I use frequently [ ```.clj```, ```.py```, ```.js``` ]
 - 📚  I’m currently learning [Project Management](https://www.coursera.org/professional-certificates/google-project-management)
 - 🔭  Portfolio page: https://d4rkwinz.com
 - 📫  How to reach me: d4rkwinz@gmail.com
 - 😄  Pronouns: He/Him
-- ⚡   Fun fact: "Everything in software architecture is a trade-off." 
+- ⚡   Fun Quote: "The perfect kind of architecture is the one which never has to be made." 
 
 <!-- <p align="center">
   <a href="mailto:d4rkwinz@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="d4rkwinz" height="20" width="20" /></a>&nbsp;
@@ -38,9 +38,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=d4rkwinz&theme=vue" />
 </p>
 
-<p align='center'>
+<!-- <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4rkwinz&langs_count=10&hide_title=true&layout=compact" />
-</p>
+</p> -->
 
 <p align='center'>
   <img src="https://visitor-badge.glitch.me/badge?page_id=d4rkwinz.d4rkwinz" alt="visitor badge"/>
