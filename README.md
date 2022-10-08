@@ -46,5 +46,6 @@
 </p> -->
 
 <p align='center'>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=d4rkwinz.d4rkwinz" alt="visitor badge"/>
+  <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=d4rkwinz.d4rkwinz" alt="visitor badge"/> -->
+  <img src="https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fd4rkwinz%2Fd4rkwinz&labelColor=%23697689&countColor=%2337d67a&style=plastic" alt="daily visitor badge"/>
 </p>
