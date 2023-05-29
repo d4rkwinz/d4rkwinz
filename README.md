@@ -1,4 +1,4 @@
-## Hi there, 👋 I'm Ryan aka "d4rkwinz"
+## Hi folks, 👋 I'm Ryan aka "d4rkwinz"
 
 ### Software Engineer 👨🏻‍💻
 
@@ -8,13 +8,13 @@
 <br /> -->
 
 - 🏦 I’m currently working on ...
-- 🏆 Proud works: [ [Wingman](https://wingman.xyz) ]
+- 🏆 Proud works: [ [Wingman](https://wingman.xyz), [Kaypay](https://kaypay.vn) ]
 - 👨‍💻 I use frequently [ ```.clj```, ```.py```, ```.js``` ]
 - 📚 I’m currently learning [Project Management](https://www.coursera.org/professional-certificates/google-project-management)
 - 🔭 Portfolio page: https://d4rkwinz.com
 - 📫 How to reach me: d4rkwinz@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Inspired Quote: "It doesn't matter how good your engineering team is if they are not given something worthwhile to build." - Marty Cagan
+- ⚡ Inspired Quote: "The only way to go fast, is to go well." - Robert C. Martin
 
 <!-- <p align="center">
   <a href="mailto:d4rkwinz@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="d4rkwinz" height="20" width="20" /></a>&nbsp;
@@ -37,7 +37,7 @@
 ## My Github Stats 📈:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=d4rkwinz&count_private=true&show_icons=true&locale=en&theme=vue&disable_animations=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=d4rkwinz&count_private=true&show_icons=true&locale=en&theme=vue&disable_animations=true&rank_icon=github" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=d4rkwinz&theme=vue" />
 </p>
 
