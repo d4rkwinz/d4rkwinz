@@ -9,7 +9,7 @@
 
 - 🏦 I’m currently working on ...
 - 🏆 Proud works: [ [Wingman](https://wingman.xyz), [Kaypay](https://kaypay.vn) ]
-- 👨‍💻 I use frequently [ ```.clj```, ```.py```, ```.js``` ]
+- 👨‍💻 I use [ ```.go```, ```.clj```, ```.py```, ```.js``` ]
 - 📚 I’m currently learning [Project Management](https://www.coursera.org/professional-certificates/google-project-management)
 - 🔭 Portfolio page: https://d4rkwinz.com
 - 📫 How to reach me: d4rkwinz@gmail.com
@@ -37,7 +37,7 @@
 ## My Github Stats 📈:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=d4rkwinz&count_private=true&show_icons=true&locale=en&theme=vue&disable_animations=true&rank_icon=github" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=d4rkwinz&count_private=true&show_icons=true&locale=en&theme=vue&disable_animations=true&rank_icon=github" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=d4rkwinz&theme=vue" />
 </p>
 
