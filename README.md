@@ -7,9 +7,9 @@
 
 <br /> -->
 
-- 🏦 I’m currently working on ...
+- 🏦 I’m currently working on [Kobiton](https://kobiton.com/)
 - 🏆 Proud works: [ [Wingman](https://wingman.xyz), [Kaypay](https://kaypay.vn) ]
-- 👨‍💻 I use [ ```.go```, ```.clj```, ```.py```, ```.js``` ]
+- 👨‍💻 I use [```.rs```, ```.go```, ```.clj```, ```.py```, ```.js``` ]
 - 📚 I’m currently learning [Project Management](https://www.coursera.org/professional-certificates/google-project-management)
 - 🔭 Portfolio page: https://d4rkwinz.com
 - 📫 How to reach me: d4rkwinz@gmail.com
