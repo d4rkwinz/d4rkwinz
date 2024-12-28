@@ -38,7 +38,7 @@
 
 <p align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=d4rkwinz&count_private=true&show_icons=true&locale=en&theme=vue&disable_animations=true&rank_icon=github" /> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=d4rkwinz&theme=vue" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=d4rkwinz&theme=vue&starting_year=2017" />
 </p>
 
 <!-- <p align='center'>
