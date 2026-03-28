@@ -38,7 +38,7 @@
 
 <p align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=d4rkwinz&count_private=true&show_icons=true&locale=en&theme=vue&disable_animations=true&rank_icon=github" /> -->
-  <img src="https://streak-stats.demolab.com/?user=d4rkwinz&theme=vue&starting_year=2017&currStreakNum=1&disable_animations=true" />
+  <img src="https://streak-stats.demolab.com/?user=d4rkwinz&theme=vue&disable_animations=true" />
 </p>
 
 <!-- <p align='center'>
