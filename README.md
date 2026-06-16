@@ -31,6 +31,7 @@
 
 ## My Certifications 🎖:
 
+- [Claude Certified Architect - Foundations](https://verify.skilljar.com/c/gpp3dimfwba7)
 - [Google Cloud Certified Professional Cloud Architect](https://www.credential.net/0bf33c33-ff68-4461-ad48-071bc62275c5)
 - [Google Cloud Certified Associcate Cloud Engineer](https://www.credential.net/1c89c57f-d89c-4e1f-bb15-9de66299d856)
 
